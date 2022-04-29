@@ -12,6 +12,9 @@
 ## &#11015;&#65039; contribution &#129309;
 - we always welcomes you for contribution
 - you can make it responsive
+------
+##  >>&#128279;link to page &#11015;&#65039;
+&#127760; [click here for page](https://jayrajsingh65.github.io/netflix-clone-landingpage/)
 
 -----------
 ## &#128153; dont foget to give a  &#11088;
